@@ -49,7 +49,7 @@
 				"saved_object_attributes": {"annotation_name":"","initial":[""],"parameter_enable":1},
 				"style": "",
 				"text": "pattr",
-				"varname": "u531000377"
+				"varname": "u299000423"
 			}
 		},
 		{ "box":
@@ -228,7 +228,7 @@
 				"presentation": 1,
 				"presentation_rect": [179,151,73,18],
 				"style": "",
-				"text": "version 1.0.3"
+				"text": "version 1.0.4"
 			}
 		},
 		{ "box":
@@ -558,8 +558,8 @@
 		{
 			"architecture": "x64",
 			"major": 7,
-			"minor": 2,
+			"minor": 3,
 			"modernui": 1,
-			"revision": 5
+			"revision": 1
 		}
 }
